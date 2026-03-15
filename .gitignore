@@ -1,0 +1,7 @@
+# Python standard
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+*.py[cod]
+.DS_Store
